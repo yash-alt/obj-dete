@@ -1,0 +1,2 @@
+# obj-dete
+test obj
