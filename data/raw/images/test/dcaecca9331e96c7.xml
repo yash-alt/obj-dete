@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>dcaecca9331e96c7.jpg</filename>
+  <path>/Users/yash/Downloads/insect2/insect/images/dcaecca9331e96c7.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>insect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>66</xmin>
+      <xmax>617</xmax>
+      <ymin>257</ymin>
+      <ymax>756</ymax>
+    </bndbox>
+  </object>
+</annotation>

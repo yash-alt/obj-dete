@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>acf86e4587cfc130.jpg</filename>
+  <path>/Users/yash/Downloads/insect2/insect/images/acf86e4587cfc130.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>insect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>508</xmin>
+      <xmax>929</xmax>
+      <ymin>206</ymin>
+      <ymax>538</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>cc1b30d78595244b.jpg</filename>
+  <path>/Users/yash/Downloads/insect2/insect/images/cc1b30d78595244b.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>insect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>313</xmin>
+      <xmax>743</xmax>
+      <ymin>261</ymin>
+      <ymax>484</ymax>
+    </bndbox>
+  </object>
+</annotation>
